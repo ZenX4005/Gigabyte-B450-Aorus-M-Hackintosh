@@ -16,7 +16,7 @@ Gigabyte B450 Aorus M Hackintosh
 | Case    | Cube Gaming VRED V2.0           |
 
 ## Backpanel USB Mapping
-![Backpanel USB Mapping](https://github.com/ZenX4005/Gigabyte-B450-I-Aorus-Pro-WiFi-Hackintosh/blob/main/USB-Map%20(Aorus).jpg)
+![Backpanel USB Mapping](https://github.com/ZenX4005/Gigabyte-B450-Aorus-M-Hackintosh/blob/main/USB-Map.jpg)
 
 ## Hackintool USB Mapping
-![Hackintool USB Mapping](https://github.com/ZenX4005/Gigabyte-B450-I-Aorus-Pro-WiFi-Hackintosh/blob/main/USB-Map%20(Aorus).png)
+![Hackintool USB Mapping](https://github.com/ZenX4005/Gigabyte-B450-Aorus-M-Hackintosh/blob/main/USB-Map.png)
