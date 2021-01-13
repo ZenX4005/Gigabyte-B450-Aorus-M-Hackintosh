@@ -12,7 +12,7 @@ Gigabyte B450 Aorus M Hackintosh
 | PSU     | Bitfenix Whisper 600W 80+ Gold  |
 | MB      | Gigabyte B450 Aorus M           |
 | RAM     | 2x8GB Corsair Vengeance 2666    |
-| WiFi/BT | Fenvi BCM94360NG                |
+| WiFi/BT | TP-LINK PCI-E 1x AR938x         |
 | Cooling | Stock AMD Wraith Prism RGB      |
 | Case    | Cube Gaming VRED V2.0           |
 
