@@ -8,10 +8,10 @@ Gigabyte B450 Aorus M Hackintosh
 | Item    | Type                            |
 | ---:    |                            :--- |
 | CPU     | AMD Ryzen 7 1700X               |
-| GPU     | MSI Radeon RX 570 OC 8GB        |
+| GPU     | MSI Radeon RX 5600 XT MECH 6GB  |
 | PSU     | Bitfenix Whisper 600W 80+ Gold  |
 | MB      | Gigabyte B450 Aorus M           |
-| RAM     | 2x8GB Corsair Vengeance 2666    |
+| RAM     | 4x8GB KLEVV Bolt X 3200MHz      |
 | WiFi/BT | TP-LINK PCI-E 1x AR938x         |
 | Cooling | Stock AMD Wraith Prism RGB      |
 | Case    | Cube Gaming VRED V2.0           |
